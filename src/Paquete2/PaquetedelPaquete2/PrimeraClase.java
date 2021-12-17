@@ -1,2 +1,4 @@
-package Paquete2.PaquetedelPaquete2;public class PrimeraClase {
+package Paquete2.PaquetedelPaquete2;
+
+public class PrimeraClase {
 }
